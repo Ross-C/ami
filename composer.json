@@ -26,7 +26,6 @@
         "react/event-loop": "~0.4.2",
         "react/socket-client": "~0.4.6",
         "clue/ami-react": "~1.1.0",
-        "jackkum/phppdu": "~1.2.10"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "~2.0.0",
@@ -57,7 +56,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0-dev"
+            "master": "master"
         }
     },
     "minimum-stability": "dev",
