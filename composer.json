@@ -1,5 +1,5 @@
 {
-    "name": "enniel/ami",
+    "name": "rosscuk/ami",
     "type": "library",
     "description": "Provide asterisk ami to laravel",
     "keywords": [
@@ -7,7 +7,7 @@
         "Ami",
         "Asterisk"
     ],
-    "homepage": "https://github.com/Enniel/Ami",
+    "homepage": "https://github.com/Ross-C/ami",
     "license": "MIT",
     "authors": [
         {
@@ -17,10 +17,10 @@
     "require": {
         "php": ">=5.6.0",
         "ext-mbstring": "*",
-        "illuminate/support": "~5.1",
-        "illuminate/console": "~5.1",
-        "illuminate/events": "~5.1",
-        "illuminate/contracts": "~5.1",
+        "illuminate/support": "*",
+        "illuminate/console": "*",
+        "illuminate/events": "*",
+        "illuminate/contracts": "*",
         "react/dns": "~0.4.3",
         "react/stream": "~0.4.6",
         "react/event-loop": "~0.4.2",
@@ -31,8 +31,8 @@
     "require-dev": {
         "friendsofphp/php-cs-fixer": "~2.0.0",
         "phpunit/phpunit": "~4.5|~5.0",
-        "illuminate/config": "~5.1",
-        "illuminate/container": "~5.1"
+        "illuminate/config": "*",
+        "illuminate/container": "*"
     },
     "autoload": {
         "psr-4": {
