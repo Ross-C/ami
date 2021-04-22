@@ -1,5 +1,5 @@
 {
-    "name": "rosscuk/ami",
+    "name": "enniel/ami",
     "type": "library",
     "description": "Provide asterisk ami to laravel",
     "keywords": [
